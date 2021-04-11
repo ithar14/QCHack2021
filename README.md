@@ -28,6 +28,7 @@ Python = [ Qiskit, mathplotlib, Numpy, Pandas, csv]
 working with sets of data, dictionaries, exporting to .csv and plotting
 
 ### future improvements 
-using animations and adding different qubits to the plot we get different beautifull patterns
+- missing a second source to create the interference
+- adding more qubits + animation to the plot we get different beautiful interference patterns
 
 ![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Two_sources_interference.gif)
