@@ -6,6 +6,6 @@ Quantum computers operate on different sets of physical laws than classical comp
 
 
 
-![](\img\plot_4.png)H gate applied to 4 Qubits
+![](img\plot_4.png)H gate applied to 4 Qubits
 
-![](\img\plot_6.png)H gate applied to 6 Qubits
+![](img\plot_6.png)H gate applied to 6 Qubits
